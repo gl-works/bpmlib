@@ -1,0 +1,24 @@
+{
+  "name": "bpmlib",
+  "version": "1.0.0",
+  "description": "bpm library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gl-works@bitbucket.org/gl-works/bpmlib.git"
+  },
+  "keywords": [
+    "bpm"
+  ],
+  "author": "gl",
+  "license": "ISC",
+  "dependencies": {
+    "base32": "0.0.6",
+    "bluebird": "^2.9.9",
+    "tmp": "0.0.24",
+    "xml2js": "^0.4.5"
+  }
+}
