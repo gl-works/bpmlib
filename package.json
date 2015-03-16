@@ -17,6 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^2.9.9",
+    "lodash": "^3.0.0",
     "tmp": "0.0.24",
     "xml2js": "^0.4.5"
   }
